@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mercado-libre-api/static/css/main.ebb1b706.chunk.css",
+    "main.js": "/mercado-libre-api/static/js/main.af30ad1d.chunk.js",
+    "main.js.map": "/mercado-libre-api/static/js/main.af30ad1d.chunk.js.map",
+    "runtime-main.js": "/mercado-libre-api/static/js/runtime-main.72854abe.js",
+    "runtime-main.js.map": "/mercado-libre-api/static/js/runtime-main.72854abe.js.map",
+    "static/js/2.bb694e1a.chunk.js": "/mercado-libre-api/static/js/2.bb694e1a.chunk.js",
+    "static/js/2.bb694e1a.chunk.js.map": "/mercado-libre-api/static/js/2.bb694e1a.chunk.js.map",
+    "static/js/3.00dbdc08.chunk.js": "/mercado-libre-api/static/js/3.00dbdc08.chunk.js",
+    "static/js/3.00dbdc08.chunk.js.map": "/mercado-libre-api/static/js/3.00dbdc08.chunk.js.map",
+    "index.html": "/mercado-libre-api/index.html",
+    "static/css/main.ebb1b706.chunk.css.map": "/mercado-libre-api/static/css/main.ebb1b706.chunk.css.map",
+    "static/js/2.bb694e1a.chunk.js.LICENSE.txt": "/mercado-libre-api/static/js/2.bb694e1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72854abe.js",
+    "static/js/2.bb694e1a.chunk.js",
+    "static/css/main.ebb1b706.chunk.css",
+    "static/js/main.af30ad1d.chunk.js"
+  ]
+}
