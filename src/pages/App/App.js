@@ -4,7 +4,7 @@ import arrCountries from '../../countries.json';
 
 function App() {
   return (
-    <section  className="home">
+    <section className="home">
       <img
       src='https://static.mlstatic.com/org-img/homesnw/img/ml-logo@2x.png?v=4.0'
       alt='logo mercadolibre'
