@@ -1,0 +1,22 @@
+[
+    {
+        "country": "Argentina",
+        "code": "MLA",
+        "flag": "arg"
+    },
+    {
+        "country": "Bolivia",
+        "code": "MBO",
+        "flag": "bol"
+    },
+    {
+        "country": "Brasil",
+        "code": "MLB",
+        "flag": "bra"
+    },
+    {
+        "country": "Colombia",
+        "code": "MCO",
+        "flag": "col"
+    }
+]
