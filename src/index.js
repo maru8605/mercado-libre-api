@@ -2,11 +2,13 @@ import { BrowserRouter as Router, Route} from 'react-router-dom'
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './pages/App/App';
+import Carousel from './pages/Carousel/Carousel'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <Router>
-    <Route exact path='/' component={App} />
+    <Route exact path='/' component={App}/> 
+    <Route exact path='/carousel/:id' component={Carousel}/>
   </Router>,
   document.getElementById('root')
 );
