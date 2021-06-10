@@ -7,11 +7,12 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <Router>
-    <Route exact path='/' component={App}/> 
-    <Route exact path='/carousel/:id' component={Carousel}/>
+    <Route  exact path='/' component={App}/>
+    <Route  exact path='/carousel/:id' component={Carousel}/>
   </Router>,
   document.getElementById('root')
 );
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

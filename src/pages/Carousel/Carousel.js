@@ -9,15 +9,15 @@ function Carousel(){
     const {id} = useParams()
 
     function filterCode(obj) {
-        return obj.cod === id;
+        return obj.code === id;
     }
 
     const filterId = arrCountries.filter(filterCode)
 
-    if (filterId.length === 0 === 0){
-        <Error errorValue='404' />
+    if (filterId.length === 0 ){
+        return <Error errorValue='404' />
     }else{
-        <Shop  zoneValue={id}/>
+        return <Shop  zoneValue={id}/>
     }
 
 }
